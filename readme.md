@@ -7,9 +7,9 @@ This is project 6 / 20.
 
 ## Live Version
 
-You can find the live version of my project [here](https://rperry99.github.io/animation-template/)
+You can find the live version of my project [here](https://batulzii1023.github.io/animation-template/)
 
-You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+You can view the full list of project from this course [here](https://github.com/batulzii1023/ztm-20-javascript-projects).
 
 ## Thoughts
 
